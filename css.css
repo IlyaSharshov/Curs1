@@ -1,0 +1,20 @@
+.formgp {
+    display: inline-block;
+}
+.formgp-item{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.hobbi1{
+    display: flex;
+}
+
+.hoppi2{
+    display: flex; 
+}
+
+.btn{
+    margin: 10px;
+}
